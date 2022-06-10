@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import darkLogo from "../assets/images/resources/logo-dark.png";
+import darkLogo from "../assets/images/resources/AClogo-dark.png";
 export default class Blog extends Component {
   constructor() {
     super();
@@ -50,71 +50,48 @@ export default class Blog extends Component {
                       className="footer-widget__logo"
                     />
                     <p className="footer-widget__contact">
-                      <a href="tel:888-666-0000">888 666 0000</a>
+                      <a href="tel:833-737-8481">833 737 8481</a>
                     </p>
 
                     <p className="footer-widget__contact">
-                      <a href="mailto:needhelp@example.com">
-                        needhelp@example.com
+                      <a href="mailto:helpme@artscube.biz">
+                        helpme@artscube.biz
                       </a>
                     </p>
                     <p className="footer-widget__contact">
-                      855 road, broklyn street <br /> new york 600
+                    604 Lee Street,  <br />Salisbury, NC 28144
                     </p>
                   </div>
                 </div>
                 <div className="col-lg-6 d-flex justify-content-between footer-widget__links-wrap">
                   <div className="footer-widget">
-                    <h3 className="footer-widget__title">Explore</h3>
-                    <ul className="footer-widget__links list-unstyled">
-                      <li>
-                        <a href="#none">About</a>
-                      </li>
-                      <li>
-                        <a href="#none">Our Team</a>
-                      </li>
-                      <li>
-                        <a href="#none">Features</a>
-                      </li>
-                      <li>
-                        <a href="#none">Blog</a>
-                      </li>
-                      <li>
-                        <a href="#none">How It Works</a>
-                      </li>
-                    </ul>
-                  </div>
-                  <div className="footer-widget">
                     <h3 className="footer-widget__title">Services</h3>
                     <ul className="footer-widget__links list-unstyled">
                       <li>
-                        <a href="#none">Speed Optimization </a>
+                        <a href="#none">Web Design</a>
                       </li>
                       <li>
-                        <a href="#none">Marketing Analysis </a>
+                        <a href="#none">Google Ads</a>
                       </li>
                       <li>
-                        <a href="#none">SEO and Backlinks </a>
+                        <a href="#none">Inbound Marketing</a>
                       </li>
                       <li>
-                        <a href="#none">Content Marketing</a>
+                        <a href="#none">Digital Marketing</a>
+                      </li>
+                      <li>
+                        <a href="#none">Sales Services</a>
                       </li>
                     </ul>
                   </div>
                   <div className="footer-widget">
-                    <h3 className="footer-widget__title">Links</h3>
+                    <h3 className="footer-widget__title">Industries</h3>
                     <ul className="footer-widget__links list-unstyled">
                       <li>
-                        <a href="#none">Help </a>
+                        <a href="#none">Shredding Companies</a>
                       </li>
                       <li>
-                        <a href="#none">Support </a>
-                      </li>
-                      <li>
-                        <a href="#none">Clients </a>
-                      </li>
-                      <li>
-                        <a href="#none">Contact</a>
+                        <a href="#none">Pest Control Companies</a>
                       </li>
                     </ul>
                   </div>
@@ -123,32 +100,32 @@ export default class Blog extends Component {
                   <div className="footer-widget">
                     <div className="site-footer__social">
                       <a
-                        href="#s-link"
+                        href="https://facebook.com/ArtsCubeMarketing"
                         aria-label="social icon"
                         aria-hidden="true"
                       >
                         <i className="fa fa-facebook-square"></i>
                       </a>
                       <a
-                        href="#none"
+                        href="https://twitter.com/Arts_Cube"
                         aria-label="social icon"
                         aria-hidden="true"
                       >
                         <i className="fa fa-twitter"></i>
                       </a>
                       <a
-                        href="#none"
+                        href="https://instagram.com/artscube.biz/"
                         aria-label="social icon"
                         aria-hidden="true"
                       >
                         <i className="fa fa-instagram"></i>
                       </a>
                       <a
-                        href="#none"
+                        href="https://linkedin.com/company/art%27s-cube?trk=biz-companies-cym"
                         aria-label="social icon"
                         aria-hidden="true"
                       >
-                        <i className="fa fa-pinterest-p"></i>
+                        <i className="fa fa-linkedin"></i>
                       </a>
                     </div>
                   </div>
