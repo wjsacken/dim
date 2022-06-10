@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Link } from "gatsby";
-import logoLight from "../assets/images/resources/logo-light.png";
+import logoLight from "../assets/images/resources/AClogo-light.png";
 export default class NavTwo extends Component {
   constructor() {
     super();
@@ -66,51 +66,54 @@ export default class NavTwo extends Component {
             </div>
             <div className="main-navigation">
               <ul className=" one-page-scroll-menu navigation-box">
-                <li className="current scrollToLink">
+                <li className="scrollToLink">
                   <a href="/">Home</a>
+                </li>
+                <li className="scrollToLink">
+                  <a href="/">Team</a>
+                </li>
+                <li className="current scrollToLink">
+                  <a href="/">Services</a>
                   <ul className="sub-menu">
                     <li>
-                      <a href="/">Home 01</a>
+                      <a href="/">Web Design</a>
                     </li>
                     <li>
-                      <a href="/index-2">Home 02</a>
+                      <a href="/index-2">Digital Marketing</a>
                     </li>
                     <li>
-                      <a href="#none">Header Versions</a>
-                      <ul className="sub-menu">
-                        <li>
-                          <a href="/">Header 01</a>
-                        </li>
-                        <li>
-                          <a href="/index-2">Header 02</a>
-                        </li>
-                      </ul>
+                      <a href="/index-2">Google Ads</a>
+                    </li>
+                    <li>
+                      <a href="/index-2">Inbound Marketing</a>
+                    </li>
+                    <li>
+                      <a href="/index-2">Sales Services</a>
+                    </li>
+                    
+                  </ul>
+                </li>
+                <li className="scrollToLink">
+                  <a href="#news">Industries</a>
+                  <ul className="sub-menu">
+                    <li>
+                      <Link to="/news">Shredding Companies</Link>
+                    </li>
+                    <li>
+                      <Link to="/news-details">Pest Control Companies</Link>
                     </li>
                   </ul>
                 </li>
                 <li className="scrollToLink">
-                  <a href="#features">Features</a>
+                  <a href="#features">Blog</a>
                 </li>
                 <li className="scrollToLink">
-                  <a href="#video">Video</a>
+                  <a href="#video">Contact Us</a>
                 </li>
                 <li className="scrollToLink">
-                  <a href="#pricing">Pricing</a>
+                  <a href="#pricing">Client Support</a>
                 </li>
-                <li className="scrollToLink">
-                  <a href="#screenshots">App Screenshots</a>
-                </li>
-                <li className="scrollToLink">
-                  <a href="#news">News</a>
-                  <ul className="sub-menu">
-                    <li>
-                      <Link to="/news">News</Link>
-                    </li>
-                    <li>
-                      <Link to="/news-details">News Details</Link>
-                    </li>
-                  </ul>
-                </li>
+                
               </ul>
             </div>
             <div className="right-side-box">

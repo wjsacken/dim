@@ -21,15 +21,8 @@ const HomePageTwo = () => (
     <NavTwo />
     <BannerTwo />
     <Features />
-    <Video />
     <CallToAction />
-    <CallToActionTwo />
     <Pricing />
-    <Testimonial />
-    <Brands />
-    <Counter />
-    <Screenshots />
-    <Faq />
     <NewsHome />
     <Subscribe />
     <Footer />

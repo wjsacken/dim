@@ -6,7 +6,7 @@ const Features = () => {
       <div className="container">
         <div className="block-title text-center">
           <h2 className="block-title__title">
-            Checkout Our <span>Software</span> <br /> Features Below.
+            Checkout Our <span>Services</span>
           </h2>
         </div>
         <div className="row">
@@ -19,7 +19,7 @@ const Features = () => {
                 <i className="service-one__icon dimon-icon-laptop"></i>
                 <h3>
                   <a href="#none">
-                    Speed <br /> Optimization
+                    Web <br /> Design
                   </a>
                 </h3>
                 <p>
@@ -41,7 +41,7 @@ const Features = () => {
                 <i className="service-one__icon dimon-icon-presentation"></i>
                 <h3>
                   <a href="#none">
-                    Marketing <br /> Analysis
+                    Digital <br /> Marketing
                   </a>
                 </h3>
                 <p>
@@ -63,7 +63,7 @@ const Features = () => {
                 <i className="service-one__icon dimon-icon-target"></i>
                 <h3>
                   <a href="#none">
-                    SEO and <br /> Backlinks
+                    Google <br /> Ads
                   </a>
                 </h3>
                 <p>
@@ -85,7 +85,7 @@ const Features = () => {
                 <i className="service-one__icon dimon-icon-visualization"></i>
                 <h3>
                   <a href="#none">
-                    Content <br /> Marketing
+                    Inbound <br /> Marketing
                   </a>
                 </h3>
                 <p>

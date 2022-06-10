@@ -27,7 +27,7 @@ export default class Pricing extends Component {
         <div className="container">
           <div className="block-title text-center">
             <h2 className="block-title__title">
-              Choose <span>Pricing Plans</span> Which <br /> Suits Your Needs.
+              Scale <span>Your Marketing</span> at <br /> your control.
             </h2>
           </div>
           <ul
@@ -61,13 +61,17 @@ export default class Pricing extends Component {
                     data-wow-duration="1500ms"
                   >
                     <div className="pricing-one__single text-center">
-                      <h3>$20.00</h3>
-                      <p>basic pack</p>
+                      <h3>$899/mo</h3>
+                      <p>Starter</p>
+                      <p>Set the foundation for your inbound marketing to reach your target audience.</p>
                       <ul className="list-unstyled">
-                        <li>Extra features</li>
-                        <li>Lifetime free support</li>
-                        <li>Upgrate options</li>
-                        <li>Full access</li>
+                        <li>Up to $600/mo Google Ads Spend</li>
+                        <li>2 Google Ad Campaigns</li>
+                        <li>6 Ad Groups</li>
+                        <li>18 Ads</li>
+                        <li>Monthly Transparent Reporting</li>
+                        <li>1 SEO Rich Blog Post</li>
+                        <li>Email Support</li>
                       </ul>
                       <a href="#none" className="thm-btn pricing-one__btn">
                         <span>Choose Plan</span>
@@ -80,13 +84,17 @@ export default class Pricing extends Component {
                     data-wow-duration="1500ms"
                   >
                     <div className="pricing-one__single text-center">
-                      <h3>$30.00</h3>
-                      <p>medium pack</p>
+                      <h3>$1,189/mo</h3>
+                      <p>Pro</p>
+                      <p>Take your inbound marketing to the next level.</p>
                       <ul className="list-unstyled">
-                        <li>Extra features</li>
-                        <li>Lifetime free support</li>
-                        <li>Upgrate options</li>
-                        <li>Full access</li>
+                        <li>Everything in Basic</li>
+                        <li>2 Organic Social Posts / mo</li>
+                        <li>Facebook Advertising</li>
+                        <li>1 Social Ad Campaign</li>
+                        <li>2 Ad Sets</li>
+                        <li>4 Ads</li>
+                        <li>1 40 min Quarterly Meeting</li>
                       </ul>
                       <a href="#none" className="thm-btn pricing-one__btn">
                         <span>Choose Plan</span>
@@ -99,13 +107,16 @@ export default class Pricing extends Component {
                     data-wow-duration="1500ms"
                   >
                     <div className="pricing-one__single text-center">
-                      <h3>$40.00</h3>
-                      <p>premium pack</p>
+                      <h3>$1,899/mo</h3>
+                      <p>Enterprise</p>
+                      <p>For organizations really looking to exponentially grow their business.</p>
                       <ul className="list-unstyled">
-                        <li>Extra features</li>
-                        <li>Lifetime free support</li>
-                        <li>Upgrate options</li>
-                        <li>Full access</li>
+                        <li>Everything in Pro</li>
+                        <li>4 Organic Social Posts</li>
+                        <li>2 Landing Pages</li>
+                        <li>2 Lead Nurturing Campaigns</li>
+                        <li>1 40 min Monthly Meeting</li>
+                        <li>Email &amp; Phone Support</li>
                       </ul>
                       <a href="#none" className="thm-btn pricing-one__btn">
                         <span>Choose Plan</span>

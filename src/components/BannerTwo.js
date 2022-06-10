@@ -1,5 +1,5 @@
 import React from "react";
-import bannerMoc from "../assets/images/mocs/banner-moc-2-1.png";
+import bannerMoc from "../assets/images/mocs/banner-moc-2-11.png";
 const BannerTwo = () => {
   return (
     <section className="banner-two" id="banner">
@@ -15,13 +15,11 @@ const BannerTwo = () => {
           <div className="col-xl-6 col-lg-8">
             <div className="banner-two__content">
               <h3 className="banner-two__title">
-                We Deliver the <br />
-                <span>Software</span> you <br /> Need.
+                Increase Revenue &amp; <br />
+                <span>Add</span>Value
               </h3>
               <p className="banner-two__text">
-                We are committed to providing our customers with <br />{" "}
-                exceptional service while offering our employees the <br /> best
-                training.
+              Together we will build a strong marketing foundation that increases revenue and adds value to your company.
               </p>
               <a href="#none" className="banner-two__btn thm-btn ">
                 <span>Get Started</span>
