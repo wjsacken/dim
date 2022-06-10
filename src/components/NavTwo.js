@@ -107,18 +107,14 @@ export default class NavTwo extends Component {
                 <li className="scrollToLink">
                   <a href="#features">Blog</a>
                 </li>
-                <li className="scrollToLink">
-                  <a href="#video">Contact Us</a>
-                </li>
-                <li className="scrollToLink">
-                  <a href="#pricing">Client Support</a>
-                </li>
-                
               </ul>
             </div>
             <div className="right-side-box">
               <a className="thm-btn header__cta-btn" href="#none">
-                <span>Login</span>
+                <span>Contact Us</span>
+              </a>
+              <a className="thm-btn header__cta-btn" href="#none">
+                <span>Client Support</span>
               </a>
             </div>
           </div>
