@@ -138,7 +138,7 @@ export default class Blog extends Component {
               <div className="inner-container text-center">
                 <p className="site-footer__copy">
                   &copy; copyright {new Date().getFullYear()} by{" "}
-                  <a href="#none">Layerdrops.com</a>
+                  <a href="#none">Art's Cube</a>
                 </p>
               </div>
             </div>
