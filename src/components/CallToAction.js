@@ -34,12 +34,14 @@ const CallToAction = () => {
                   <i className="fa fa-check"></i>Target - Deploy a variety of digital marketing tactics to attract your ideal buyer.
                 </li>
               </ul>
-              <a href="#none" className="thm-btn">
-                <span>Shredding Companies</span>
-              </a>
-              <a href="#none" className="thm-btn pricing-one__btn">
-                <span>Pest Control Companies</span>
-              </a>
+              <div className="row">
+                <a href="#none" className="thm-btn">
+                  <span>Shredding Companies</span>
+                </a>
+                <a href="#none" className="thm-btn pricing-one__btn">
+                  <span>Pest Control Companies</span>
+                </a>
+              </div>
             </div>
           </div>
         </div>
