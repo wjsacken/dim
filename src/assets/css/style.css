@@ -313,7 +313,7 @@ a:visited {
   /* Thrid Level Menu */
 }
 .header-navigation ul.navigation-box > li + li {
-  margin-left: 70px;
+  margin-left: 50px;
 }
 .header-navigation ul.navigation-box > li:first-child {
   padding-left: 0;
