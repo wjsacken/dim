@@ -1,9 +1,9 @@
 import React from "react";
-import Layout from "../components/Layout";
-import NavTwo from "../components/NavTwo";
-import PageHeader from "../components/PageHeader";
-import NewsDetails from "../components/blogDetails";
-import Footer from "../components/Footer";
+import Layout from "../../components/Layout";
+import NavTwo from "../../components/NavTwo";
+import PageHeader from "../../components/PageHeader";
+import NewsDetails from "../../components/blogDetails";
+import Footer from "../../components/Footer";
 
 const NewsDetailsPage = () => (
   <Layout pageTitle="Dimon | News Details">
