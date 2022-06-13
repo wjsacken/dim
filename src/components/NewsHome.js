@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import blog1 from "../assets/images/blog/blog-1-1.jpg";
+import blog1 from "https://blog.artscube.biz/hubfs/website-timekiller.jpg";
 import blog2 from "../assets/images/blog/blog-1-2.jpg";
 import blog3 from "../assets/images/blog/blog-1-3.jpg";
 const NewsHome = () => {
@@ -27,15 +27,15 @@ const NewsHome = () => {
               <div className="blog-one__content">
                 <ul className="list-unstyled blog-one__meta">
                   <li>
-                    <a href="#none">22 Oct, 2019</a>
+                    <a href="#none">7 June, 2022</a>
                   </li>
                   <li>
-                    <a href="#none">2 Comments</a>
+                    <a href="#none">0 Comments</a>
                   </li>
                 </ul>
                 <h3 className="blog-one__title">
                   <Link to="/news-details">
-                    Pre and post launch mobile app marketing pitfalls to avoid
+                  The time-killing problems of most websites.
                   </Link>
                 </h3>
                 <Link to="/news-details" className="blog-one__link">
