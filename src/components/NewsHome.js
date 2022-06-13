@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import blog1 from "https://blog.artscube.biz/hubfs/website-timekiller.jpg";
+import blog1 from "../assets/images/blog/blog-1-1.jpg";
 import blog2 from "../assets/images/blog/blog-1-2.jpg";
 import blog3 from "../assets/images/blog/blog-1-3.jpg";
 const NewsHome = () => {
